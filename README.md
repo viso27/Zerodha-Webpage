@@ -17,3 +17,8 @@ To get started with this project locally, follow these steps:
    ```bash
    git clone https://github.com/viso27/zerodha-webpage.git
 
+## Output
+![Screenshot (5)](https://github.com/user-attachments/assets/c360cb8d-8d3d-4a3e-b5f2-ad8186d0151d)
+
+
+
